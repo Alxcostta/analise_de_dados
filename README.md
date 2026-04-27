@@ -11,11 +11,24 @@ Projeto pessoal desenvolvido durante o curso de Programação em Python para Dat
 <b>Pandas</b>  
 <b>Google Colab</b>
 
-<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt=""> </p>
-<p> <p>
-<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt=""> </p>
-<p> <p>
-<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt=""> </p>
-<p> <p>
-<p> <img src="https://github.com/Alxcostta/Wikipedia-2.0/blob/main/images/rir/homepage.PNG" alt=""> </p>
-<p> <p>
+
+
+<h3> Análise Descritiva dos Dados </h3>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/01.PNG" alt="imagem Análise Descritiva dos Dados"> </p>
+
+<h3>Gráficos</h3>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/02.PNG" alt="imagem gráfico em barra"> </p>
+<h5 align = "center"> Gráfico em barra</h5>
+<br>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/03.PNG" alt="imagem gráfico em barra"> </p>
+<h5 align = "center"> Gráfico em barra</h5>
+<br>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/04.PNG" alt="imagem gráfico em pizza"> </p>
+<h5 align = "center"> Gráfico em pizza</h5>
+<br>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/05.PNG" alt="imagem gráfico mapa de árvore"> </p>
+<h5 align = "center"> Gráfico treemap (mapa de árvore) </h5>
+<br>
+<p> <img src="https://github.com/Alxcostta/analise_de_dados/blob/main/graficos/06.PNG" alt="imagem gráfico explosão solar"> </p>
+<h5 align = "center"> Gráfico sunburst (explosão solar) </h5>
+<br>
